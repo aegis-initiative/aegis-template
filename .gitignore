@@ -1,0 +1,25 @@
+# Node
+node_modules/
+*.log
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Rust
+target/
+
+# IDE
+.idea/
+*.swp
+
+# OS
+Thumbs.db

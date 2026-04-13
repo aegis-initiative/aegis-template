@@ -1,0 +1,1 @@
+# AEGIS Template — devcontainer placeholder
